@@ -1,0 +1,22 @@
+{
+  "name": "constructor_word_guess",
+  "version": "1.0.0",
+  "description": "Bootcamp Assignment 10/20/2018 - Constructor Word Guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SueJStevens/constructor_word_guess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SueJStevens/constructor_word_guess/issues"
+  },
+  "homepage": "https://github.com/SueJStevens/constructor_word_guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}

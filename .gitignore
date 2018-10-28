@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+
+# visual studio code workspace
+.code-workspace
+
